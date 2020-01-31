@@ -6,7 +6,7 @@ fn main() {
     // println!("Hello, world!");
     let matches = App::new("mypipe")
                           .version("1.0")
-                          .author("Doubalo John Eddy LAMIEN <johnlamien@gmail.com>")
+                          .author("LAMIEN Doubalo John Eddy <johnlamien@gmail.com>")
                           .about("pipe")
                           .arg(Arg::with_name("input")
                                .short("in")
